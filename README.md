@@ -1,4 +1,4 @@
-# AI-Startups
+# AI-Startups 🚀
 
 
 <p align="center">
