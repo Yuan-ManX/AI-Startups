@@ -22,6 +22,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
 | [Anthropic](https://www.anthropic.com/)              | Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.            |  Claude  |   LLM   |
 | [HeyGen](https://www.heygen.com/)              | HeyGen - AI Video Generator. HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process.            |  HeyGen  |   Video、Avatar    |
+| [Midjourney](https://www.midjourney.com)              | Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.            |  HeyGen  |   Image    |
 | [Mistral AI](https://mistral.ai/)              | Mistral AI - Frontier AI in your hands. We are a small, creative team with high scientific standards. We make open, efficient, helpful and trustworthy AI models through ground-breaking innovations.            |  Mistral  |   LLM   |
 | [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |  ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
