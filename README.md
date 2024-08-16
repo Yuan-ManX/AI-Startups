@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="AI-Startups.png" alt="AI-Startups" style="display:block; margin:auto; width:880px;" />
+  <img src="AI Startups.png" alt="AI Startups" style="display:block; margin:auto;" />
 </p>
 
 
