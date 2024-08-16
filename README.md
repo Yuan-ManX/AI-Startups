@@ -20,8 +20,9 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
-| [Anthropic](https://www.anthropic.com/)              | Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.            | Claude  |   LLM   |
-| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [Anthropic](https://www.anthropic.com/)              | Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.            |  Claude  |   LLM   |
+| [Mistral AI](https://mistral.ai/)              | Mistral AI - Frontier AI in your hands. We are a small, creative team with high scientific standards. We make open, efficient, helpful and trustworthy AI models through ground-breaking innovations.            |  Mistral  |   LLM   |
+| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |  ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
