@@ -16,7 +16,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
-| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -25,7 +25,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
-| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -33,7 +33,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
-| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
@@ -41,7 +41,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
-| [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            |ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [Etched](https://www.etched.com/)              | Etched | The World's First Transformer ASIC.            | Sohu  |   Hardware   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
