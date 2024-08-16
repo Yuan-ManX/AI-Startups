@@ -1,10 +1,8 @@
 # AI-Startups 🚀
 
-
 <p align="center">
-  <img src="AI Startups.png" alt="AI Startups" style="display:block; margin:auto;" />
+  <img src="AI Startups.png" alt="AI Startups" style="display:block; margin:auto; width:680px;" />
 </p>
-
 
 AI Startups are all you need! Here we will track the latest AI Startups, including AI Applications, AI Developer Tools, AI Infrastructure and AI Hardware. 🔥
 
