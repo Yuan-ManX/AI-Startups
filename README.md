@@ -53,6 +53,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
 | [Etched](https://www.etched.com/)              | Etched - The World's First Transformer ASIC. Etched.ai is an AI chip startup that develops Sohu, a chip designed specifically for running transformer models.            | Sohu  |   Hardware   |
+| [Groq](https://groq.com/)              | Groq is Fast AI Inference. The LPU™ Inference Engine by Groq is a hardware and software platform that delivers exceptional compute speed, quality, and energy efficiency.            | Groq  |   Hardware   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
