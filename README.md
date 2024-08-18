@@ -36,6 +36,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
+| [LangChain](https://www.langchain.com/)              | LangChain is a framework to build with LLMs by chaining interoperable components. LangGraph is the framework for building controllable agentic workflows.            | LangChain、LangSmith、LangGraph  |   Agent   |
 | [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
