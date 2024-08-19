@@ -52,6 +52,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
+| [Fireworks](https://fireworks.ai/)              | Fireworks - Fastest Inference for Generative AI. The fastest and most efficient inference engine to build production-ready, compound AI systems.            | Fireworks AI  |   AI Inference Platform   |
 | [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
