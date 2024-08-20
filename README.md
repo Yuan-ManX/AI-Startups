@@ -33,6 +33,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | [SkyReels](https://skyreels.ai/beta)              | SkyReels - The Idea to Short film platform that merging 3D Engine and AI video generation.            |  SkyReels  |   Video、3D Engine   |
 | [Stability AI](https://stability.ai/)              | Stability AI is an artificial intelligence company, best known for it's text-to-image model Stable Diffusion.            |  Stable Diffusion、Stable Video Diffusion、Stable Audio、Stable Video 3D、Stable LM  |   Image、Video、Audio、3D、LLM    |
 | [Suno](https://www.suno.ai)              | Suno AI : AI Song & Music Generator. Suno is building a future where anyone can make great music.            |  Suno  |   Music   |
+| [Udio](https://www.udio.com/)              | Udio - AI Music Generator. A new tool for music makers. From Grammy-winning producers to up-and-coming songwriters, Udio is a tool for realizing musical ideas.            |  Udio  |   Music   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
