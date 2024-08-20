@@ -59,6 +59,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | [Fireworks](https://fireworks.ai/)              | Fireworks - Fastest Inference for Generative AI. The fastest and most efficient inference engine to build production-ready, compound AI systems.            | Fireworks AI  |   AI Inference Platform   |
 | [Lepton AI](https://www.lepton.ai/)              | Lepton AI: Meet the New AI Cloud. Lepton AI serve the AI industry with fast AI engine, cloud native efficiency, and production quality combined. Cutting-edge AI inference and training, unmatched cloud-native experience, and top-tier GPU infrastructure.            | Lepton AI  |   AI Cloud   |
 | [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
+| [SiliconFlow](http://siliconflow.com)              | SiliconFlow's mission is to accelerate AGI to benefit humanity. SiliconFlow is dedicated to building AI infra. We currently focus on high-performance and low-cost large-scale model inference and serving.            | SiliconCloud、SiliconLLM、OneDiff  |   AI Inference Platform   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
