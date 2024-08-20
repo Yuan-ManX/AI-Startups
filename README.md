@@ -32,6 +32,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | [Runway](https://runwayml.com/)              | Runway - Tools for human imagination. Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.            |  Runway  |   Video   |
 | [SkyReels](https://skyreels.ai/beta)              | SkyReels - The Idea to Short film platform that merging 3D Engine and AI video generation.            |  SkyReels  |   Video、3D Engine   |
 | [Stability AI](https://stability.ai/)              | Stability AI is an artificial intelligence company, best known for it's text-to-image model Stable Diffusion.            |  Stable Diffusion、Stable Video Diffusion、Stable Audio、Stable Video 3D、Stable LM  |   Image、Video、Audio、3D、LLM    |
+| [Suno](https://www.suno.ai)              | Suno AI : AI Song & Music Generator. Suno is building a future where anyone can make great music.            |  Suno  |   Music   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
