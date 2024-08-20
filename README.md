@@ -20,6 +20,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 
 | Startup                   | Description                                                 |   Product   |   Type   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :-----------: | :-----------: |
+| [Alive AI](https://bealive.ai/)              | Alive AI - Accelerate AGI via Building an AI Native Multimodal Content Platform. Chat with Your Fictional Fantasies. Using Text, Voice, Visuals, and Beyond.            |  Alive AI  |   AI Native Multimodal Content Platform   |
 | [Anthropic](https://www.anthropic.com/)              | Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.            |  Claude  |   LLM   |
 | [Black Forest Labs](https://blackforestlabs.ai/)              | Black Forest Labs - Frontier AI Lab. Deeply rooted in the generative AI research community, our mission is to develop and advance state-of-the-art generative deep learning models for media such as images and videos, and to push the boundaries of creativity, efficiency and diversity.            |  FLUX.1  |   Image、Video    |
 | [Cohere](https://cohere.com/)              | Cohere - The leading AI platform for enterprise. Optimized for enterprise generative AI, search and discovery, and advanced retrieval.            |  Cohere  |   LLM   |
