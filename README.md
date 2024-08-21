@@ -53,6 +53,8 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | [OpenAI](https://openai.com/)              | OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.            | ChatGPT、Sora、DALL·E、Whisper  |   LLM   |
 | [Pinecone](https://www.pinecone.io/)              | Pinecone: The vector database to build knowledgeable AI. Perform low-latency vector search to retrieve relevant data for search, RAG, recommendation, detection, and other applications. Pinecone serverless lets you deliver remarkable GenAI applications faster, at up to 50x lower cost.            | Pinecone  |   Vector Database   |
 | [Replicate](https://replicate.com/)              | Replicate — Run AI with an API. Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.            | Replicate  |   AI Models   |
+| [Weaviate](https://weaviate.io/)              | Weaviate - Vector Database. The AI-native database for a new generation of software. Bring intuitive applications to life with less
+hallucination, data leakage, and vendor lock-in.            | Weaviate  |   Vector Database   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
 
