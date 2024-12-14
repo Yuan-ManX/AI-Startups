@@ -64,6 +64,7 @@ AI Startups are all you need! Here we will track the latest AI Startups, includi
 | [Vidu](https://www.vidu.io/)              | Vidu: Loom-style videos for sales teams, personalized at scale with AI. VIDU's personalized video recorder makes it easy to create stunning videos, unique for each prospect.            |  Vidu  |   Video   |
 | [Viggle](https://viggle.ai/home)              | Viggle is the new hottest AI Creative Tool That is forever changing Memes and the future of AI Video.            |  Viggle  |   Video   |
 | [Vozo](https://www.vozo.ai/)              | Vozo - AI Video Editor. Transform Videos with Prompts. An AI video editor that lets you edit, dub, translate, and lip-sync videos with prompts. Add auto subtitles, change voices, and modify voiceovers with ease.            |  Vozo  |   Video   |
+| [WaveForms AI](https://www.waveforms.ai/)              | WaveForms AI is an Audio LLM company building the future of audio intelligence through advanced research and products. End-to-end Audio Language Models brought us closer to the dream of seamless, human-like communication with AIs. Audio models are now capable of real-time, emotionally resonant and immersive voice interactions.            |  WaveForms AI  |   Audio、LLM   |
 | [World Labs](https://www.worldlabs.ai/)              | World Labs is a spatial intelligence AI company building Large World Models (LWMs) to perceive, generate, and interact with the 3D world.            |  World Labs  |   LWMs、3D   |
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back ^</a></p>
